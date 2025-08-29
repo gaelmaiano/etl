@@ -1,3 +1,4 @@
 # Ignore MySQL/MariaDB database files
 bdd/db/
 venv/
+venv/
