@@ -1,0 +1,6 @@
+commande_id,numero_commande,date_commande,nom_revendeur,nom_region,produit_id,nom_produit,quantite,prix_unitaire_vente,total_ligne
+1,CMD-20250710-001,2025-07-10,TechExpress,Île-de-France,101,Casque Bluetooth,5,59.9,299.50000762939453
+1,CMD-20250710-001,2025-07-10,TechExpress,Île-de-France,102,Chargeur USB-C,10,19.9,198.99999618530273
+1,CMD-20250710-001,2025-07-10,TechExpress,Île-de-France,105,Montre Connectée,2,129.9,259.79998779296875
+2,CMD-20250711-001,2025-07-11,TechExpress,Île-de-France,108,Clavier sans fil,3,44.9,134.70000457763672
+2,CMD-20250711-001,2025-07-11,TechExpress,Île-de-France,103,Enceinte Portable,4,89.9,359.6000061035156

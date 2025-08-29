@@ -1,0 +1,11 @@
+produit_id,nom_produit,quantite_produite,quantite_vendue,stock_disponible
+101,Casque Bluetooth,150.0,15.0,135.0
+102,Chargeur USB-C,240.0,30.0,210.0
+103,Enceinte Portable,120.0,12.0,108.0
+104,Batterie Externe,180.0,0.0,180.0
+105,Montre Connectée,60.0,6.0,54.0
+106,Webcam HD,105.0,0.0,105.0
+107,Hub USB 3.0,75.0,0.0,75.0
+108,Clavier sans fil,90.0,9.0,81.0
+109,Souris ergonomique,135.0,0.0,135.0
+110,Station d'accueil,45.0,0.0,45.0
